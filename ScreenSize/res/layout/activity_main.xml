@@ -24,7 +24,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:gravity="center"
-            android:text="icon shoutout 320x480 on drawable-ldpi" />
+            android:text="icon shoutout 320x480 on drawable-ldpix" />
     </LinearLayout>
 
 </LinearLayout>
